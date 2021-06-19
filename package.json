@@ -1,5 +1,5 @@
 {
-  "name": "publish-to-mqtt",
+  "name": "publish-to-aws-mqtt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
